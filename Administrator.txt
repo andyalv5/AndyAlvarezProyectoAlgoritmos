@@ -1,0 +1,4 @@
+Andy,1234,0
+Profesor,1234,1
+Admin,1234,2
+Gerente,1234,3

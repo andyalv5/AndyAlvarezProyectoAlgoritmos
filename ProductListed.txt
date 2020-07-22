@@ -1,0 +1,1 @@
+Coca Cola,4.63,500,<food_courses.FoodCourses object at 0x7f9a0599ae20>,grande

@@ -1,0 +1,7 @@
+Todd,2,34,3,0,3,premium
+Yoli,2,57,23,30,1,premium
+Julio,3,4567,49,10,8,vip
+Uyl,3,463,32,10,3,vip
+You,3,7543,46,0,2,vip
+Julio,1,34,23,0,2,vip
+Uir,1,23,35,10,4,vip
