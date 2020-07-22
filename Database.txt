@@ -1,4 +1,3 @@
-Todd,2,34,3,0,3,premium
 Yoli,2,57,23,30,1,premium
 Julio,3,4567,49,10,8,vip
 Uyl,3,463,32,10,3,vip
